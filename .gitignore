@@ -1,0 +1,4 @@
+.env
+node_modules
+src/index.js
+src/public/content.json

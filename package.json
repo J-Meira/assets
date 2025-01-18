@@ -1,0 +1,27 @@
+{
+  "name": "assets",
+  "version": "0.1.1",
+  "description": "Auto generate content.json for public assets",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc src/index.ts",
+    "make": "node src/index.js"
+  },
+  "keywords": [
+    "assets",
+    "public",
+    "files"
+  ],
+  "author": "J-Meira",
+  "license": "GPL",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/J-Meira/assets.git"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "dotenv": "^16.4.7",
+    "globals": "^15.14.0",
+    "typescript": "^5.7.3"
+  }
+}
