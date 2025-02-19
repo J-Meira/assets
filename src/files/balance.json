@@ -1,0 +1,2534 @@
+[
+  {
+    "id": "IM00803",
+    "description": "ABRAC.METAL UNIV.P/CHIC.MEDIA",
+    "quantity": "33.00",
+    "costPrice": "R$      2,36"
+  },
+  {
+    "id": "GB39474",
+    "description": "ANEL AJUS.ROL.6002 GOL/FOX1.0",
+    "quantity": "2.00",
+    "costPrice": "R$      9,22"
+  },
+  {
+    "id": "GB39476",
+    "description": "ANEL AJUS.ROL.6202 GOL GV/KOM",
+    "quantity": "3.00",
+    "costPrice": "R$      4,95"
+  },
+  {
+    "id": "GB39858",
+    "description": "ANEL AJUS.ROL.6202 SCAN/VOLVO",
+    "quantity": "6.00",
+    "costPrice": "R$      8,47"
+  },
+  {
+    "id": "UFP5507",
+    "description": "ANEL AJUS.ROL.ALT.BOSCH 6201.",
+    "quantity": "10.00",
+    "costPrice": "R$      3,02"
+  },
+  {
+    "id": "GB39712",
+    "description": "ANEL AJUS.ROL.ALT.BOSCH 6201.",
+    "quantity": "2.00",
+    "costPrice": "R$      5,29"
+  },
+  {
+    "id": "GB39808",
+    "description": "ANEL AJUS.ROL.ALT.PALIO/UNO..",
+    "quantity": "3.00",
+    "costPrice": "R$      5,29"
+  },
+  {
+    "id": "GB39713",
+    "description": "ANEL AJUS.ROL.ASTR/VECT.6203.",
+    "quantity": "5.00",
+    "costPrice": "R$      6,99"
+  },
+  {
+    "id": "GB39817",
+    "description": "ANEL AJUS.ROL.GCB2/KCB1/NCB1",
+    "quantity": "5.00",
+    "costPrice": "R$      7,41"
+  },
+  {
+    "id": "GB32300",
+    "description": "ARRUELA CALCO IND.PT.MB JF TD",
+    "quantity": "29.00",
+    "costPrice": "R$      1,62"
+  },
+  {
+    "id": "GB33091",
+    "description": "ARRUELA ENC.IND.PT.PERKINS TD",
+    "quantity": "16.00",
+    "costPrice": "R$      0,70"
+  },
+  {
+    "id": "GB31307",
+    "description": "ARRUELA ENC.IND.PT.PERKINS TD",
+    "quantity": "11.00",
+    "costPrice": "R$      1,17"
+  },
+  {
+    "id": "GB32037",
+    "description": "ARRUELA IND.PT.MB JD TODOS MD",
+    "quantity": "18.00",
+    "costPrice": "R$      1,34"
+  },
+  {
+    "id": "GS6002",
+    "description": "ATUAD.M.LENTA FIESTA/KA/ESCOR",
+    "quantity": "1.00",
+    "costPrice": "R$    238,97"
+  },
+  {
+    "id": "ZM901",
+    "description": "AUT.AUX.PT.KB TDS.BCH(006)24V",
+    "quantity": "1.00",
+    "costPrice": "R$    200,33"
+  },
+  {
+    "id": "ZM2695",
+    "description": "AUT.PT.AGRALE/BLAZER/S10 02>.",
+    "quantity": "1.00",
+    "costPrice": "R$    176,49"
+  },
+  {
+    "id": "ZM3485",
+    "description": "AUT.PT.CAM.VW.13.15>17.21 24V",
+    "quantity": "1.00",
+    "costPrice": "R$    238,49"
+  },
+  {
+    "id": "ZM571",
+    "description": "AUT.PT.FORD/VW/AGRALE TDS.78>",
+    "quantity": "1.00",
+    "costPrice": "R$    121,89"
+  },
+  {
+    "id": "ZM831",
+    "description": "AUT.PT.MB/VW/FORD/TDS.JE 12V.",
+    "quantity": "1.00",
+    "costPrice": "R$    632,90"
+  },
+  {
+    "id": "ZM501",
+    "description": "AUT.PT.PERKINS TDS.SEM PISTÃO",
+    "quantity": "1.00",
+    "costPrice": "R$    119,77"
+  },
+  {
+    "id": "ZEN70567",
+    "description": "AUT.PT.VW 1.6 67/74 CORCEL>78",
+    "quantity": "1.00",
+    "costPrice": "R$    208,74"
+  },
+  {
+    "id": "F60DN",
+    "description": "BATERIA ONBAT 60 AMP",
+    "quantity": "1.00",
+    "costPrice": "R$    249,62"
+  },
+  {
+    "id": "B150DX",
+    "description": "BATERIA PIONEIRO 150 AMP",
+    "quantity": "1.00",
+    "costPrice": "R$    694,87"
+  },
+  {
+    "id": "ZEN0044",
+    "description": "BENDIX PT.CORCEL I/BELINAI>78",
+    "quantity": "1.00",
+    "costPrice": "R$    104,40"
+  },
+  {
+    "id": "ZEN0985",
+    "description": "BENDIX PT.DELCO 28MT MB.TD24V",
+    "quantity": "1.00",
+    "costPrice": "R$    228,44"
+  },
+  {
+    "id": "ZEN1893",
+    "description": "BENDIX PT.GOL/SAV/VOY/FOX 16>",
+    "quantity": "3.00",
+    "costPrice": "R$     66,25"
+  },
+  {
+    "id": "ZEN0497",
+    "description": "BENDIX PT.MB C/MT.CUMMINS JF",
+    "quantity": "1.00",
+    "costPrice": "R$    143,63"
+  },
+  {
+    "id": "ZEN0024",
+    "description": "BENDIX PT.PERKINS TDS.MOD.WPS",
+    "quantity": "1.00",
+    "costPrice": "R$     72,07"
+  },
+  {
+    "id": "ZEN0068",
+    "description": "BENDIX PT.VW GOL 1.6/8/2.0",
+    "quantity": "2.00",
+    "costPrice": "R$     39,75"
+  },
+  {
+    "id": "NC740",
+    "description": "BOB.PT.MB JF 76/84 BOSCH 12V.",
+    "quantity": "1.00",
+    "costPrice": "R$    284,07"
+  },
+  {
+    "id": "NC0281",
+    "description": "BOB.PT.PERK/MWM C/ESC.LONG",
+    "quantity": "1.00",
+    "costPrice": "R$    309,41"
+  },
+  {
+    "id": "NC767",
+    "description": "BOB.PT.PREST.M100R CUMM. 12V.",
+    "quantity": "1.00",
+    "costPrice": "R$    284,67"
+  },
+  {
+    "id": "DK083824V",
+    "description": "BOMBA AGUA LAV.SCAN/VOLVO",
+    "quantity": "1.00",
+    "costPrice": "R$     32,85"
+  },
+  {
+    "id": "DK0807",
+    "description": "BOMBA AGUA LAV.VW DUPLO",
+    "quantity": "1.00",
+    "costPrice": "R$     35,51"
+  },
+  {
+    "id": "BF1212V",
+    "description": "BOMBA AGUA/GAS.UNIVERSAL",
+    "quantity": "1.00",
+    "costPrice": "R$     17,91"
+  },
+  {
+    "id": "IM00893",
+    "description": "BOTAO P/CHAVES LUZ UNIV.",
+    "quantity": "3.00",
+    "costPrice": "R$      6,10"
+  },
+  {
+    "id": "K12057060",
+    "description": "BOTAO PISCA AL.UNO/PALIO08>17",
+    "quantity": "2.00",
+    "costPrice": "R$     29,34"
+  },
+  {
+    "id": "IM11031",
+    "description": "BOTAO PT.AGR/FOR/HYS/SC/ FIAT",
+    "quantity": "2.00",
+    "costPrice": "R$     49,29"
+  },
+  {
+    "id": "F1016",
+    "description": "BOTAO PT.UNIVERSAL D.K.W TDS.",
+    "quantity": "1.00",
+    "costPrice": "R$     18,97"
+  },
+  {
+    "id": "F1041",
+    "description": "BOTAOPT.MB/GM/FORD/TOY",
+    "quantity": "1.00",
+    "costPrice": "R$     16,85"
+  },
+  {
+    "id": "SC683X",
+    "description": "BUCHA INT.MB.1113>2216 TDS.JD",
+    "quantity": "13.00",
+    "costPrice": "R$     10,89"
+  },
+  {
+    "id": "SC682X",
+    "description": "BUCHA INT.MB.1113>2216 TDS.JD",
+    "quantity": "12.00",
+    "costPrice": "R$     10,89"
+  },
+  {
+    "id": "SC68ST",
+    "description": "BUCHA INT.MB.1113>2216 TDS.JD",
+    "quantity": "12.00",
+    "costPrice": "R$     10,65"
+  },
+  {
+    "id": "SCS92ST",
+    "description": "BUCHA INT.MB.CBT/D20/FIAT JF.",
+    "quantity": "10.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "SC902X",
+    "description": "BUCHA INT.MB.CBT/D20/FIAT JF.",
+    "quantity": "17.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "SC903X",
+    "description": "BUCHA INT.MB.CBT/D20/FIAT JF.",
+    "quantity": "15.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "SC90ST",
+    "description": "BUCHA INT.MB.CBT/D20/FIAT JF.",
+    "quantity": "10.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "SC852XX",
+    "description": "BUCHA L/C.CH.BRASI/OPAL.6C 2X",
+    "quantity": "8.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "SC09ST",
+    "description": "BUCHA L/C.CH.BRASI/OPAL.6C ST",
+    "quantity": "24.00",
+    "costPrice": "R$      4,34"
+  },
+  {
+    "id": "SC093X",
+    "description": "BUCHA L/C.CH.BRASIL/OPALA 6CC",
+    "quantity": "34.00",
+    "costPrice": "R$      4,34"
+  },
+  {
+    "id": "SC1049ST",
+    "description": "BUCHA L/C.ESC/COR/OMEG/GOL ST",
+    "quantity": "7.00",
+    "costPrice": "R$      5,27"
+  },
+  {
+    "id": "SC892X",
+    "description": "BUCHA L/C.MB/CBT/D20/FIAT JF",
+    "quantity": "7.00",
+    "costPrice": "R$      4,24"
+  },
+  {
+    "id": "SC893X",
+    "description": "BUCHA L/C.MB/CBT/D20/FIAT JF",
+    "quantity": "38.00",
+    "costPrice": "R$      4,24"
+  },
+  {
+    "id": "SC84ST",
+    "description": "BUCHA L/C.TDS.PT.PERKINS/MWM.",
+    "quantity": "4.00",
+    "costPrice": "R$      9,54"
+  },
+  {
+    "id": "SC842X",
+    "description": "BUCHA L/C.TDS.PT.PERKINS/MWM.",
+    "quantity": "24.00",
+    "costPrice": "R$      9,54"
+  },
+  {
+    "id": "SC14ST",
+    "description": "BUCHA L/C.VW/GM/FIAT/FORD BCH",
+    "quantity": "8.00",
+    "costPrice": "R$      4,02"
+  },
+  {
+    "id": "SC142X",
+    "description": "BUCHA L/C.VW/GM/FIAT/FORD BCH",
+    "quantity": "7.00",
+    "costPrice": "R$      4,02"
+  },
+  {
+    "id": "SC143X",
+    "description": "BUCHA L/C.VW/GM/FIAT/FORD BCH",
+    "quantity": "22.00",
+    "costPrice": "R$           4,02"
+  },
+  {
+    "id": "SCX67ST",
+    "description": "BUCHA L/C/M.MB/VT.JD/E JF L/M",
+    "quantity": "2.00",
+    "costPrice": "R$      6,17"
+  },
+  {
+    "id": "SC672X",
+    "description": "BUCHA L/C/M.MB/VT.JD/E JF L/M",
+    "quantity": "12.00",
+    "costPrice": "R$      6,17"
+  },
+  {
+    "id": "SC673X",
+    "description": "BUCHA L/C/M.MB/VT.JD/E JF L/M",
+    "quantity": "5.00",
+    "costPrice": "R$      6,17"
+  },
+  {
+    "id": "SC132X",
+    "description": "BUCHA L/C/M.MB/VT.JD/E JF L/M",
+    "quantity": "52.00",
+    "costPrice": "R$      3,07"
+  },
+  {
+    "id": "SC133X",
+    "description": "BUCHA L/C/M.MB/VT.JD/E JF L/M",
+    "quantity": "29.00",
+    "costPrice": "R$      3,07"
+  },
+  {
+    "id": "SC13ST",
+    "description": "BUCHA L/M.CH.BRASIL/OPALA ST.",
+    "quantity": "36.00",
+    "costPrice": "R$      3,07"
+  },
+  {
+    "id": "SC74ST",
+    "description": "BUCHA L/M.FUSCA/GOL/KOMBI 67>",
+    "quantity": "8.00",
+    "costPrice": "R$      3,07"
+  },
+  {
+    "id": "SC742X",
+    "description": "BUCHA L/M.FUSCA/GOL/KOMBI 67>",
+    "quantity": "13.00",
+    "costPrice": "R$      3,07"
+  },
+  {
+    "id": "SC743X",
+    "description": "BUCHA L/M.FUSCA/GOL/KOMBI 67>",
+    "quantity": "8.00",
+    "costPrice": "R$      3,07"
+  },
+  {
+    "id": "SC932X",
+    "description": "BUCHA L/M.GOL/CORCELII/CHEVET",
+    "quantity": "1.00",
+    "costPrice": "R$      3,07"
+  },
+  {
+    "id": "SC93ST",
+    "description": "BUCHA L/M.GOL/CORCELII/CHEVET",
+    "quantity": "14.00",
+    "costPrice": "R$      3,07"
+  },
+  {
+    "id": "SC3025ST",
+    "description": "BUCHA L/M.GOL/VOY/PAR/GOLF2.0",
+    "quantity": "2.00",
+    "costPrice": "R$     12,69"
+  },
+  {
+    "id": "SC922X",
+    "description": "BUCHA L/M.MB/SCAN/VOLV/CAT.KB",
+    "quantity": "1.00",
+    "costPrice": "R$     21,42"
+  },
+  {
+    "id": "SC802X",
+    "description": "BUCHA L/M.OPALA 4C/CORCEL 2X.",
+    "quantity": "29.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "SC803X",
+    "description": "BUCHA L/M.OPALA 4C/CORCEL 3X",
+    "quantity": "8.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "SC80ST",
+    "description": "BUCHA L/M.OPALA 4C/CORCEL ST.",
+    "quantity": "18.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "SC3033ST",
+    "description": "BUCHA L/M.ORIGEM JAPONESA28MT",
+    "quantity": "18.00",
+    "costPrice": "R$      7,12"
+  },
+  {
+    "id": "SC12182X",
+    "description": "BUCHA L/M.PALIO/SIENA",
+    "quantity": "2.00",
+    "costPrice": "R$      7,66"
+  },
+  {
+    "id": "SC12182X",
+    "description": "BUCHA L/M.PALIO/SIENA 03>",
+    "quantity": "2.00",
+    "costPrice": "R$      7,66"
+  },
+  {
+    "id": "SC3036ST",
+    "description": "BUCHA L/M.PALIO/TIPO M.MARELL",
+    "quantity": "1.00",
+    "costPrice": "R$      4,46"
+  },
+  {
+    "id": "SC85ST",
+    "description": "BUCHA L/M.PERKINS TDS/MWM/TDS",
+    "quantity": "20.00",
+    "costPrice": "R$      6,79"
+  },
+  {
+    "id": "SC853X",
+    "description": "BUCHA L/M.PERKINS TDS/MWM/TDS",
+    "quantity": "4.00",
+    "costPrice": "R$      6,94"
+  },
+  {
+    "id": "SC885ST",
+    "description": "BUCHA L/M/C.FORD/MB/VW37/42MT",
+    "quantity": "20.00",
+    "costPrice": "R$     12,76"
+  },
+  {
+    "id": "MTE0705",
+    "description": "BULBO RAD.VW/GM/FOR/FIA75/70G",
+    "quantity": "2.00",
+    "costPrice": "R$     36,57"
+  },
+  {
+    "id": "MLB4186554 020",
+    "description": "CABO ROLO PP2X1,00100 METROS",
+    "quantity": "100.00",
+    "costPrice": "R$      1,52"
+  },
+  {
+    "id": "ETE7848",
+    "description": "CAME BUZ.GOL/PAR/SAV/SANT.02>",
+    "quantity": "4.00",
+    "costPrice": "R$      6,77"
+  },
+  {
+    "id": "TCE500",
+    "description": "CARREG.BAT.ELETRONICO 12V.",
+    "quantity": "1.00",
+    "costPrice": "R$     73,95"
+  },
+  {
+    "id": "WFPP5X1,0",
+    "description": "CB.PP 5 FIOS 1,00MM (5X16)",
+    "quantity": "5.00",
+    "costPrice": "R$      8,15"
+  },
+  {
+    "id": "DNIIG7MM",
+    "description": "CB.VELA IGN/CHOQUE BOI 25 MTS",
+    "quantity": "15.00",
+    "costPrice": "R$      5,49"
+  },
+  {
+    "id": "IM00912",
+    "description": "CH.AVULSA P/CH.GERAL IM11102>",
+    "quantity": "3.00",
+    "costPrice": "R$      4,44"
+  },
+  {
+    "id": "OP094004",
+    "description": "CH.GERAL BAT.MB/VOLVO/CAM/ONI",
+    "quantity": "1.00",
+    "costPrice": "R$      2,00"
+  },
+  {
+    "id": "IM11101",
+    "description": "CH.GERAL FUSCA C/SUP.BOT.PEQ.",
+    "quantity": "1.00",
+    "costPrice": "R$     55,65"
+  },
+  {
+    "id": "IM11164",
+    "description": "CH.LUZ GOL/PAR/VOY84>C/REOST.",
+    "quantity": "1.00",
+    "costPrice": "R$     42,39"
+  },
+  {
+    "id": "IM11011",
+    "description": "CH.LUZ UNIV.1POS.PARAFUS.2TER",
+    "quantity": "2.00",
+    "costPrice": "R$     48,65"
+  },
+  {
+    "id": "GB38101",
+    "description": "CHAVETA DE AÇO",
+    "quantity": "6.00",
+    "costPrice": "R$      3,50"
+  },
+  {
+    "id": "GB38225",
+    "description": "CHAVETA FREZ.POLIA ALT/PT.KB.",
+    "quantity": "4.00",
+    "costPrice": "R$      2,58"
+  },
+  {
+    "id": "TC1152",
+    "description": "CHIC.1 VIA ALT.FEMEA VWCHIC.2 VIAS",
+    "quantity": "1.00",
+    "costPrice": "R$     10,57"
+  },
+  {
+    "id": "TC1152",
+    "description": "CHIC.1 VIA SENS.TEMP.VW/FORD.",
+    "quantity": "2.00",
+    "costPrice": "R$     10,07"
+  },
+  {
+    "id": "TC1038",
+    "description": "CHIC.2 VIAS ELETROV.FIAT/GM..",
+    "quantity": "1.00",
+    "costPrice": "R$     15,89"
+  },
+  {
+    "id": "ETE7725",
+    "description": "CHIC.2 VIAS ELETROV.GOL/SANT.",
+    "quantity": "4.00",
+    "costPrice": "R$     11,34"
+  },
+  {
+    "id": "ETE7743",
+    "description": "CHIC.2 VIAS INJ/BOMBA COMBUST",
+    "quantity": "1.00",
+    "costPrice": "R$      4,07"
+  },
+  {
+    "id": "EETE5910",
+    "description": "CHIC.2 VIAS REG.VOL.MITSUBISH",
+    "quantity": "1.00",
+    "costPrice": "R$     15,06"
+  },
+  {
+    "id": "ETE5165",
+    "description": "CHIC.4 VIAS REG.VOLT.TOYOTA..",
+    "quantity": "1.00",
+    "costPrice": "R$     24,80"
+  },
+  {
+    "id": "TC1123",
+    "description": "CHIC.BOB.IG.SONDA GOL/PAR/FOX",
+    "quantity": "1.00",
+    "costPrice": "R$     15,68"
+  },
+  {
+    "id": "ETE7599",
+    "description": "CHIC.COMPL.ALT.CAM.MB.1938 TD",
+    "quantity": "2.00",
+    "costPrice": "R$     48,75"
+  },
+  {
+    "id": "DNI0872",
+    "description": "CHOQUE ELETRONICO BOI UNI.12V",
+    "quantity": "2.00",
+    "costPrice": "R$     49,71"
+  },
+  {
+    "id": "GA1547",
+    "description": "CJ.RETIF.MB/SCANIA/VOLVO 140A",
+    "quantity": "3.00",
+    "costPrice": "R$    284,97"
+  },
+  {
+    "id": "IM11,45",
+    "description": "COMUT.FAROL CHEV.BRASIL TOMADA",
+    "quantity": "1.00",
+    "costPrice": "R$    106,03"
+  },
+  {
+    "id": "K4829816",
+    "description": "COMUT.IG.GOL/PARAT/VOYA.87>95",
+    "quantity": "2.00",
+    "costPrice": "R$     31,27"
+  },
+  {
+    "id": "K4825609",
+    "description": "COMUT.IG.GOL/SAV/PARA/95> 5S.",
+    "quantity": "1.00",
+    "costPrice": "R$     43,99"
+  },
+  {
+    "id": "K4829817",
+    "description": "COMUT.IG.PASSAT<77 VW 86>5SDS",
+    "quantity": "1.00",
+    "costPrice": "R$     36,99"
+  },
+  {
+    "id": "B9231081465",
+    "description": "COND.FUSCA/BRAS/KOM1.3/5/6",
+    "quantity": "1.00",
+    "costPrice": "R$     11,33"
+  },
+  {
+    "id": "ETE7532",
+    "description": "CONEC.2 VIAS P/TERM.FEMEA",
+    "quantity": "8.00",
+    "costPrice": "R$      0,62"
+  },
+  {
+    "id": "ETE7524",
+    "description": "CONEC.4 VIAS P/TERM.MACHO",
+    "quantity": "6.00",
+    "costPrice": "R$      0,98"
+  },
+  {
+    "id": "ETE7506",
+    "description": "CONEC.6 VIAS M/F.UNIVERSAL TD",
+    "quantity": "3.00",
+    "costPrice": "R$      7,21"
+  },
+  {
+    "id": "EC3037",
+    "description": "CX.FUS.OPALA/CARAV.>80 9P",
+    "quantity": "1.00",
+    "costPrice": "R$     62,53"
+  },
+  {
+    "id": "GA1102",
+    "description": "DIODO EXCIT.ALT.WAPSA43501/02",
+    "quantity": "9.00",
+    "costPrice": "R$      3,42"
+  },
+  {
+    "id": "GA1107",
+    "description": "DIODO NEG.ALT.35A BOSCH TODOS",
+    "quantity": "9.00",
+    "costPrice": "R$      7,01"
+  },
+  {
+    "id": "IK3101",
+    "description": "DIODO NEG.ALT.35A BOSCH/WAPSA",
+    "quantity": "3.00",
+    "costPrice": "R$      8,53"
+  },
+  {
+    "id": "GA1108",
+    "description": "DIODO POS.ALT.35A BOSCHC/CORD",
+    "quantity": "3.00",
+    "costPrice": "R$      8,71"
+  },
+  {
+    "id": "GA1112",
+    "description": "DIODO POS.ALT.50A BOSCH TODOS",
+    "quantity": "1.00",
+    "costPrice": "R$      8,66"
+  },
+  {
+    "id": "GGB39824",
+    "description": "DISTANC.IND.M100 VW/VOLV/FORD",
+    "quantity": "2.00",
+    "costPrice": "R$      3,28"
+  },
+  {
+    "id": "GB39823",
+    "description": "DISTANC.IND.M100 VW/VOLV/FORD",
+    "quantity": "2.00",
+    "costPrice": "R$      3,34"
+  },
+  {
+    "id": "SU26212",
+    "description": "ESC.ALT.C/D10/CHEV/OPALA C/SP",
+    "quantity": "2.00",
+    "costPrice": "R$      2,34"
+  },
+  {
+    "id": "SU262/14E",
+    "description": "ESC.ALT.C/D10/CHEV/OPALA C/SP",
+    "quantity": "3.00",
+    "costPrice": "R$      6,91"
+  },
+  {
+    "id": "SU403302",
+    "description": "ESC.ALT.CORC/PERK.MOLA SOLTA",
+    "quantity": "4.00",
+    "costPrice": "R$      2,60"
+  },
+  {
+    "id": "SU032",
+    "description": "ESC.ALT.ESC/SANT/GOL/KOMB/SA V",
+    "quantity": "13.00",
+    "costPrice": "R$      2,72"
+  },
+  {
+    "id": "SUBX172A",
+    "description": "ESC.ALT.MB/VOLV/VW/GM/FORD/FI",
+    "quantity": "5.00",
+    "costPrice": "R$      2,75"
+  },
+  {
+    "id": "SULASX4344",
+    "description": "ESC.ALT.MB/VOLV/VW/GM/FORD/FI",
+    "quantity": "4.00",
+    "costPrice": "R$     16,08"
+  },
+  {
+    "id": "SUDX157/158",
+    "description": "ESC.PT.28MT.12V.BESTA POS/NEG",
+    "quantity": "3.00",
+    "costPrice": "R$     23,43"
+  },
+  {
+    "id": "SULASX4041",
+    "description": "ESC.PT.GOL/ESC/VOY/SAV/R19/21",
+    "quantity": "4.00",
+    "costPrice": "R$     16,08"
+  },
+  {
+    "id": "DUBSX592",
+    "description": "ESC.PT.MB/MWM/MAXI/JF 1SD.C/T",
+    "quantity": "1.00",
+    "costPrice": "R$     23,46"
+  },
+  {
+    "id": "SUJSX3132",
+    "description": "ESC.PT.MB/RANG/BLAZER/MAXION",
+    "quantity": "5.00",
+    "costPrice": "R$           3,67"
+  },
+  {
+    "id": "SUBSX060",
+    "description": "ESC.PT.MB/SCAN/VW/VOLVO KB24V",
+    "quantity": "1.00",
+    "costPrice": "R$     58,75"
+  },
+  {
+    "id": "SUBSX165",
+    "description": "ESC.PT.MB/SPRINTER TDS.BOSCH>",
+    "quantity": "1.00",
+    "costPrice": "R$     13,00"
+  },
+  {
+    "id": "SURX060",
+    "description": "ESC.PT.OPALA/CHEVROL.DELCO 6C",
+    "quantity": "1.00",
+    "costPrice": "R$      7,31"
+  },
+  {
+    "id": "SUBSX16116 2",
+    "description": "ESC.PT.PALIO/LOG/CORSA/VECTR A",
+    "quantity": "3.00",
+    "costPrice": "R$      3,83"
+  },
+  {
+    "id": "SUBSX1112",
+    "description": "ESC.PT.VALMET/MF/FORD/PERKIN S",
+    "quantity": "3.00",
+    "costPrice": "R$     16,43"
+  },
+  {
+    "id": "BX162",
+    "description": "ESCALT.MB/CORCEL/CHEV.BRASIL",
+    "quantity": "2.00",
+    "costPrice": "R$      2,28"
+  },
+  {
+    "id": "EAW080",
+    "description": "EST.ALT.MB/PASSAT 35A.12V BCH",
+    "quantity": "1.00",
+    "costPrice": "R$    171,19"
+  },
+  {
+    "id": "ARE380",
+    "description": "EST.ALT.MB/PASSAT 35A.12V BCH",
+    "quantity": "2.00",
+    "costPrice": "R$    171,80"
+  },
+  {
+    "id": "MLB3803235 692",
+    "description": "FIO BICOLOR PARALELO 0,75  Mm ALTO",
+    "quantity": "100.00",
+    "costPrice": "R$           0,59"
+  },
+  {
+    "id": "FC1,50MM7",
+    "description": "FIO ELETRICO 1,5MM ROLO 50 METROS",
+    "quantity": "50.00",
+    "costPrice": "R$      0,98"
+  },
+  {
+    "id": "DNI1,50VD",
+    "description": "FIO/CABINHO 1,50MM VERDE B14",
+    "quantity": "5.00",
+    "costPrice": "R$      4,00"
+  },
+  {
+    "id": "CP1321",
+    "description": "FUCINHO CBT/CASE/VALMET/VW.JF",
+    "quantity": "1.00",
+    "costPrice": "R$    309,21"
+  },
+  {
+    "id": "ZM8925000",
+    "description": "FUCINHO GOL/PARATI 1.0 8/16V",
+    "quantity": "1.00",
+    "costPrice": "R$    136,81"
+  },
+  {
+    "id": "CP1301",
+    "description": "FUCINHO MF275>MF292/4",
+    "quantity": "1.00",
+    "costPrice": "R$    302,14"
+  },
+  {
+    "id": "DR10515805",
+    "description": "GARFO PT.D.REMY MB.29MT 24V.T",
+    "quantity": "1.00",
+    "costPrice": "R$     49,29"
+  },
+  {
+    "id": "UFP4416",
+    "description": "GARFO PT.F250/F1000/IVECO",
+    "quantity": "2.00",
+    "costPrice": "R$     20,81"
+  },
+  {
+    "id": "",
+    "description": "GARFO PT.MB JF TODOS C/BOSCH",
+    "quantity": "1.00",
+    "costPrice": "R$     18,55"
+  },
+  {
+    "id": "UFP4413",
+    "description": "GARFO PT.PRESTOL.M93/M100",
+    "quantity": "2.00",
+    "costPrice": "R$     33,55"
+  },
+  {
+    "id": "ETE7958",
+    "description": "GUARN.MOTO BOMBA FORD LEVE TD",
+    "quantity": "9.00",
+    "costPrice": "R$      1,81"
+  },
+  {
+    "id": "ETE7959",
+    "description": "GUARN.MOTO BOMBA UNIVERSAL",
+    "quantity": "11.00",
+    "costPrice": "R$      1,38"
+  },
+  {
+    "id": "HS310",
+    "description": "HASTE ANT.TETO GOL G5 UNIVER.",
+    "quantity": "1.00",
+    "costPrice": "R$     16,35"
+  },
+  {
+    "id": "ZEN24006",
+    "description": "INDUZ.PT.D.REMY MB.29MT 24V.T",
+    "quantity": "1.00",
+    "costPrice": "R$    251,12"
+  },
+  {
+    "id": "IVM83327",
+    "description": "INDUZ.PT.MB JF 76>/MAXION 12V",
+    "quantity": "1.00",
+    "costPrice": "R$    300,50"
+  },
+  {
+    "id": "RH0371",
+    "description": "INT.FREIO CHEV/MONZ/CORSA/D20",
+    "quantity": "2.00",
+    "costPrice": "R$     40,17"
+  },
+  {
+    "id": "EC7034",
+    "description": "INT.FREIO KAD/ASTR/VECTR/CELT",
+    "quantity": "2.00",
+    "costPrice": "R$     26,99"
+  },
+  {
+    "id": "EC7041",
+    "description": "INT.FREIO MB 1113>2213 TDS.AR",
+    "quantity": "2.00",
+    "costPrice": "R$     48,60"
+  },
+  {
+    "id": "RH7431",
+    "description": "INT.FREIO MB L715/915/1214/17",
+    "quantity": "3.00",
+    "costPrice": "R$     38,05"
+  },
+  {
+    "id": "RH0356",
+    "description": "INT.FREIO MB L715/915/1214/17",
+    "quantity": "2.00",
+    "costPrice": "R$     38,05"
+  },
+  {
+    "id": "EC7454",
+    "description": "INT.FREIO PALIO/DUCATO/IDEA T",
+    "quantity": "3.00",
+    "costPrice": "R$     37,63"
+  },
+  {
+    "id": "EC7467",
+    "description": "INT.FREIO QUADR.GOL G3/5/FOX",
+    "quantity": "2.00",
+    "costPrice": "R$     60,90"
+  },
+  {
+    "id": "EC7433",
+    "description": "INT.FREIO SCANIA TDS.CT.PRATA",
+    "quantity": "1.00",
+    "costPrice": "R$     74,85"
+  },
+  {
+    "id": "EC7048",
+    "description": "INT.FREIO UNO/ELB/FIORINO/147",
+    "quantity": "2.00",
+    "costPrice": "R$     21,09"
+  },
+  {
+    "id": "EC7026",
+    "description": "INT.FREIO VW/AGRALE TDS BIPOL",
+    "quantity": "2.00",
+    "costPrice": "R$     26,54"
+  },
+  {
+    "id": "EC7207",
+    "description": "INT.LIG/DES.1 PUXADA PARAFUSO",
+    "quantity": "6.00",
+    "costPrice": "R$     10,90"
+  },
+  {
+    "id": "F1007",
+    "description": "INT.LIG/DES.TIC-TAC. AL.FERRO",
+    "quantity": "2.00",
+    "costPrice": "R$     22,57"
+  },
+  {
+    "id": "EC7193",
+    "description": "INT.OLEO C/D10/20/40/60/70TDS",
+    "quantity": "2.00",
+    "costPrice": "R$     27,87"
+  },
+  {
+    "id": "RH3328",
+    "description": "INT.OLEO F250/350/4000 MT.CUM",
+    "quantity": "1.00",
+    "costPrice": "R$     51,61"
+  },
+  {
+    "id": "EC7290",
+    "description": "INT.OLEO FOX/POLO/GOLF TDS MO",
+    "quantity": "3.00",
+    "costPrice": "R$         25,90"
+  },
+  {
+    "id": "EC7198",
+    "description": "INT.OLEO MB1113 TDS.S/MANOMET",
+    "quantity": "2.00",
+    "costPrice": "R$     22,50"
+  },
+  {
+    "id": "EC7528",
+    "description": "INT.RE CAM/ONIB.VW12140>35300",
+    "quantity": "2.00",
+    "costPrice": "R$     24,91"
+  },
+  {
+    "id": "RH4424",
+    "description": "INT.RE CAM/ONIB.VW12140>35300",
+    "quantity": "1.00",
+    "costPrice": "R$     41,11"
+  },
+  {
+    "id": "RH4473",
+    "description": "INT.RE HILUX SW4 3.0 01/04 TD",
+    "quantity": "1.00",
+    "costPrice": "R$     89,04"
+  },
+  {
+    "id": "RH4441",
+    "description": "INT.RE MB 1620/1621/1720/1938",
+    "quantity": "3.00",
+    "costPrice": "R$     91,69"
+  },
+  {
+    "id": "RH4450",
+    "description": "INT.RE MB.ACELO/914/914C/ELET",
+    "quantity": "1.00",
+    "costPrice": "R$    133,20"
+  },
+  {
+    "id": "215005",
+    "description": "INT.REDUZIDA EL.SCANIA 112 TD",
+    "quantity": "4.00",
+    "costPrice": "R$     23,31"
+  },
+  {
+    "id": "K3833113",
+    "description": "INT.TECLA MB.>88FAROL C/PRETO",
+    "quantity": "1.00",
+    "costPrice": "R$     24,91"
+  },
+  {
+    "id": "K3833162",
+    "description": "INT.TECLA MB.>88FREIO MOTOR",
+    "quantity": "1.00",
+    "costPrice": "R$     25,03"
+  },
+  {
+    "id": "RH6619",
+    "description": "INT.TRANSF.VW CAMINHOES TODOS",
+    "quantity": "1.00",
+    "costPrice": "R$     68,18"
+  },
+  {
+    "id": "ED0053",
+    "description": "JG.TRAVA BENDIX",
+    "quantity": "4.00",
+    "costPrice": "R$      7,53"
+  },
+  {
+    "id": "GB13598",
+    "description": "JG.TRAVA BENDIX/IND.28MT CUMM",
+    "quantity": "15.00",
+    "costPrice": "R$     10,65"
+  },
+  {
+    "id": "GB13585",
+    "description": "JG.TRAVA BENDIX/IND.29MT MB..",
+    "quantity": "6.00",
+    "costPrice": "R$      9,74"
+  },
+  {
+    "id": "GB13139",
+    "description": "JG.TRAVA BENDIX/IND.CHEV.DELC",
+    "quantity": "7.53",
+    "costPrice": "R$     15,00"
+  },
+  {
+    "id": "GB13243",
+    "description": "JG.TRAVA BENDIX/IND.CORC/PASS",
+    "quantity": "8.00",
+    "costPrice": "R$      7,52"
+  },
+  {
+    "id": "GB13830",
+    "description": "JG.TRAVA BENDIX/IND.M93 PREST",
+    "quantity": "4.00",
+    "costPrice": "R$     12,54"
+  },
+  {
+    "id": "GB12262",
+    "description": "JG.TRAVA BENDIX/IND.MB.JF BCH",
+    "quantity": "12.00",
+    "costPrice": "R$      9,01"
+  },
+  {
+    "id": "GB13048",
+    "description": "JG.TRAVA BENDIX/IND.VW 12V.TD",
+    "quantity": "4.00",
+    "costPrice": "R$      7,91"
+  },
+  {
+    "id": "GB13195",
+    "description": "JG.TRAVA PT.INDUZ.MT.PERKINS",
+    "quantity": "10.00",
+    "costPrice": "R$     15,00"
+  },
+  {
+    "id": "SC127ST",
+    "description": "KT.BUCHA PT.ESCOR.ZET/VERO.ST",
+    "quantity": "1.00",
+    "costPrice": "R$     27,46"
+  },
+  {
+    "id": "SC12082X",
+    "description": "KT.BUCHA PT.FOR/MB/VW 37MT 2T",
+    "quantity": "1.00",
+    "costPrice": "R$     40,28"
+  },
+  {
+    "id": "SC1207ST",
+    "description": "KT.BUCHA PT.PAL/TIPO M.MAR.ST",
+    "quantity": "2.00",
+    "costPrice": "R$      8,31"
+  },
+  {
+    "id": "SC12422X",
+    "description": "KT.BUCHA PT.PRESTOL.CAM.VW.2X",
+    "quantity": "3.00",
+    "costPrice": "R$     29,38"
+  },
+  {
+    "id": "SC11912X",
+    "description": "KT.BUCHA PT.TITAN24V.PREST.2X",
+    "quantity": "2.00",
+    "costPrice": "R$     34,46"
+  },
+  {
+    "id": "SC1191ST",
+    "description": "KT.BUCHA PT.TITAN24V.PREST.ST",
+    "quantity": "4.00",
+    "costPrice": "R$     34,46"
+  },
+  {
+    "id": "SC1242ST",
+    "description": "KT.BUCHA PT.VW 12V/F350 M93R.",
+    "quantity": "2.00",
+    "costPrice": "R$     28,09"
+  },
+  {
+    "id": "DR10515809",
+    "description": "KT.PINHAO 29MT 11DENT/TDS.24V",
+    "quantity": "1.00",
+    "costPrice": "R$     76,62"
+  },
+  {
+    "id": "GL92112V",
+    "description": "LAMPADA B/VIDRO BIG 16W/12VTS",
+    "quantity": "12.00",
+    "costPrice": "R$      1,01"
+  },
+  {
+    "id": "OS2741",
+    "description": "LAMPADA B/VIDRO PQ. 1,2W/24V.",
+    "quantity": "9.00",
+    "costPrice": "R$      4,87"
+  },
+  {
+    "id": "B1987302411 24V",
+    "description": "LAMPADA H1 F.ALTO/AUX.70W/24V",
+    "quantity": "8.00",
+    "costPrice": "R$     15,34"
+  },
+  {
+    "id": "OS6415524V",
+    "description": "LAMPADA H1 F.ALTO/AUX.70W/24V",
+    "quantity": "1.00",
+    "costPrice": "R$     24,99"
+  },
+  {
+    "id": "SWH170W24 V",
+    "description": "LAMPADA H1 SP.WHITE 70W/24V.. ( KIT)",
+    "quantity": "1.00",
+    "costPrice": "R$         20,66"
+  },
+  {
+    "id": "GL23H112V",
+    "description": "LAMPADA H11 F.MILH/AUX.55W/12",
+    "quantity": "4.00",
+    "costPrice": "R$     24,91"
+  },
+  {
+    "id": "OS6415112V",
+    "description": "LAMPADA H3 F.MILH/AUX.55W/12V",
+    "quantity": "10.00",
+    "costPrice": "R$     16,85"
+  },
+  {
+    "id": "TH324V",
+    "description": "LAMPADA H3 F.MILH/AUX.70W/24V",
+    "quantity": "10.00",
+    "costPrice": "R$      6,35"
+  },
+  {
+    "id": "OS6415624V",
+    "description": "LAMPADA H3 F.MILH/AUX.70W/24V",
+    "quantity": "6.00",
+    "costPrice": "R$     25,33"
+  },
+  {
+    "id": "GL11H412V",
+    "description": "LAMPADA H4 BI-IODO 60/55W/12V",
+    "quantity": "14.00",
+    "costPrice": "R$     11,55"
+  },
+  {
+    "id": "OS6419924V",
+    "description": "LAMPADA H5 BI-IODO 75/70W/24V",
+    "quantity": "2.00",
+    "costPrice": "R$     35,76"
+  },
+  {
+    "id": "OS393024V",
+    "description": "LAMPADA P/LANT.(69) UN.4W/24V",
+    "quantity": "20.00",
+    "costPrice": "R$      4,77"
+  },
+  {
+    "id": "GL114112V",
+    "description": "LAMPADA PISCA/RE UNIV.21W/12V",
+    "quantity": "8.00",
+    "costPrice": "R$      1,31"
+  },
+  {
+    "id": "OS751124V",
+    "description": "LAMPADA PISCA/RE UNIV.21W/24V",
+    "quantity": "18.00",
+    "costPrice": "R$      5,93"
+  },
+  {
+    "id": "GL642812V",
+    "description": "LAMPADA TORP.28MM 03W/12V.",
+    "quantity": "9.00",
+    "costPrice": "R$      1,58"
+  },
+  {
+    "id": "MMLMM6423",
+    "description": "LAMPADA TORP.35MM 05W/24V.",
+    "quantity": "6.00",
+    "costPrice": "R$      3,82"
+  },
+  {
+    "id": "OS642924V",
+    "description": "LAMPADA TORP.41MM 10W/24V.",
+    "quantity": "6.00",
+    "costPrice": "R$      8,62"
+  },
+  {
+    "id": "MMLMM6429",
+    "description": "LAMPADA TORP.41MM 10W/24V.",
+    "quantity": "6.00",
+    "costPrice": "R$      3,82"
+  },
+  {
+    "id": "GL641112V",
+    "description": "LAMPADA TORP.44MM 10W/12V.",
+    "quantity": "6.00",
+    "costPrice": "R$      1,51"
+  },
+  {
+    "id": "T2741MF",
+    "description": "LAMPADA+SOQ.1,2W/24V.MARRO M T",
+    "quantity": "5.00",
+    "costPrice": "R$      4,09"
+  },
+  {
+    "id": "GF0110AM",
+    "description": "LANT.ADAPT.LAT.RETANG.UNIV",
+    "quantity": "11.00",
+    "costPrice": "R$      8,55"
+  },
+  {
+    "id": "GF0171BIC",
+    "description": "LANT.DELIMITADORA MB 91>TODOS",
+    "quantity": "1.00",
+    "costPrice": "R$    115,42"
+  },
+  {
+    "id": "GF0170AM",
+    "description": "LANT.DT.MB 83>TETO EXTERN.AM.",
+    "quantity": "1.00",
+    "costPrice": "R$      9,01"
+  },
+  {
+    "id": "GF0170VM",
+    "description": "LANT.DT.MB 83>TETO EXTERN.VM.",
+    "quantity": "2.00",
+    "costPrice": "R$      9,28"
+  },
+  {
+    "id": "GF01120AM",
+    "description": "LANT.LAT.BASE FLEXI.1P.ACR AM",
+    "quantity": "5.00",
+    "costPrice": "R$     17,27"
+  },
+  {
+    "id": "GF012710CR",
+    "description": "LANT.LAT.RANDON C/REFL.SUP.CR",
+    "quantity": "16.00",
+    "costPrice": "R$     12,71"
+  },
+  {
+    "id": "GF0127AM",
+    "description": "LANT.LAT.RANDON C/REFLETOR AM",
+    "quantity": "8.00",
+    "costPrice": "R$     11,01"
+  },
+  {
+    "id": "GF0156VM",
+    "description": "LANT.PUDIM B/BAIXA NYLON VM",
+    "quantity": "1.00",
+    "costPrice": "R$     12,11"
+  },
+  {
+    "id": "GF0208AM",
+    "description": "LANT.TOPO FURGOES CANT.OVALAM",
+    "quantity": "3.00",
+    "costPrice": "R$      7,73"
+  },
+  {
+    "id": "GF0208CR",
+    "description": "LANT.TOPO FURGOES CANT.OVALCR",
+    "quantity": "11.00",
+    "costPrice": "R$      7,73"
+  },
+  {
+    "id": "GF0208VM",
+    "description": "LANT.TOPO FURGOES CANT.OVALVM",
+    "quantity": "4.00",
+    "costPrice": "R$      7,73"
+  },
+  {
+    "id": "GF0212AM",
+    "description": "LANT.TOPO FURGOES PEQUENA AM.",
+    "quantity": "2.00",
+    "costPrice": "R$      5,43"
+  },
+  {
+    "id": "GF0212AZ",
+    "description": "LANT.TOPO FURGOES PEQUENA AZ",
+    "quantity": "5.00",
+    "costPrice": "R$      5,43"
+  },
+  {
+    "id": "GF0212CR",
+    "description": "LANT.TOPO FURGOES PEQUENA CR.",
+    "quantity": "15.00",
+    "costPrice": "R$      5,43"
+  },
+  {
+    "id": "GF0162",
+    "description": "LANT.TS.MB 1111 S/VIGIA REDON",
+    "quantity": "1.00",
+    "costPrice": "R$     27,96"
+  },
+  {
+    "id": "PL05160205",
+    "description": "LANT.TS.MB 1313 C/VIGA RETAN",
+    "quantity": "8.00",
+    "costPrice": "R$     55,25"
+  },
+  {
+    "id": "GF0163BIC",
+    "description": "LANT.TS.MB 1313 C/VIGIA RETAN",
+    "quantity": "2.00",
+    "costPrice": "R$     34,87"
+  },
+  {
+    "id": "PL07160109",
+    "description": "LANT.TS.MB 85>S/VIG.S/CONECT.",
+    "quantity": "5.00",
+    "costPrice": "R$     59,89"
+  },
+  {
+    "id": "AF315BIC",
+    "description": "LANT.TS.PARACH.CANOINHA BIC..",
+    "quantity": "2.00",
+    "costPrice": "R$     17,27"
+  },
+  {
+    "id": "GF0205BIC",
+    "description": "LANT.TS.PARACH.CANOINHA BIC..",
+    "quantity": "4.00",
+    "costPrice": "R$     17,27"
+  },
+  {
+    "id": "GF0007AM",
+    "description": "LENTE LANT.DEGRAU UNIV.AMAREL",
+    "quantity": "11.00",
+    "costPrice": "R$      2,52"
+  },
+  {
+    "id": "GF0007AZ",
+    "description": "LENTE LANT.DEGRAU UNIV.AZUL",
+    "quantity": "4.00",
+    "costPrice": "R$      2,52"
+  },
+  {
+    "id": "GF0022BIC",
+    "description": "LENTE LANT.EMB.RANDON BICOLOR",
+    "quantity": "4.00",
+    "costPrice": "R$      5,23"
+  },
+  {
+    "id": "GF0057AM",
+    "description": "LENTE LANT.LAT.RANDON C/RE.",
+    "quantity": "8.00",
+    "costPrice": "R$      3,71"
+  },
+  {
+    "id": "GF0057CR",
+    "description": "LENTE LANT.LAT.RANDON C/RE.CR",
+    "quantity": "15.00",
+    "costPrice": "R$      3,71"
+  },
+  {
+    "id": "GF0017BIC",
+    "description": "LENTE LANT.P/CHOQU.CANOIN.CR.",
+    "quantity": "1.00",
+    "costPrice": "R$      6,89"
+  },
+  {
+    "id": "GF0030VM",
+    "description": "LENTE LANT.RETANG.UNIVERS VM",
+    "quantity": "11.00",
+    "costPrice": "R$      3,38"
+  },
+  {
+    "id": "GF0030AM",
+    "description": "LENTE LANT.RETANG.UNIVERS.AM.",
+    "quantity": "9.00",
+    "costPrice": "R$      3,38"
+  },
+  {
+    "id": "GF0008CR",
+    "description": "LENTE LANT.TIPO RECRUSUL CRIS",
+    "quantity": "12.00",
+    "costPrice": "R$      3,40"
+  },
+  {
+    "id": "GF0027CR",
+    "description": "LENTE LANT.TOPO FURGOES UN. CR",
+    "quantity": "22.00",
+    "costPrice": "R$      2,49"
+  },
+  {
+    "id": "GF0028VM",
+    "description": "LENTE LANT.TOPO FURGOES UN. VM",
+    "quantity": "13.00",
+    "costPrice": "R$      1,53"
+  },
+  {
+    "id": "GF0028AM",
+    "description": "LENTE LANT.TOPO FURGOES UN.AM",
+    "quantity": "16.00",
+    "costPrice": "R$      1,53"
+  },
+  {
+    "id": "GF0027AM",
+    "description": "LENTE LANT.TOPO FURGOES UN.AM",
+    "quantity": "17.00",
+    "costPrice": "R$      2,49"
+  },
+  {
+    "id": "GF0028CR",
+    "description": "LENTE LANT.TOPO FURGOES UN.CR",
+    "quantity": "13.00",
+    "costPrice": "R$      1,53"
+  },
+  {
+    "id": "GF0046BC",
+    "description": "LENTE LANT.TS.CAM.VW/",
+    "quantity": "6.00",
+    "costPrice": "R$     12,19"
+  },
+  {
+    "id": "GF0045",
+    "description": "LENTE LANT.TS.CAM.VW/CARGO",
+    "quantity": "1.00",
+    "costPrice": "R$     13,77"
+  },
+  {
+    "id": "FL1054VM",
+    "description": "LENTE LANT.TS.CAMINH.FORD >77",
+    "quantity": "1.00",
+    "costPrice": "R$     20,54"
+  },
+  {
+    "id": "GF0016",
+    "description": "LENTE LANT.TS.MB 1111 TODOS",
+    "quantity": "3.00",
+    "costPrice": "R$      7,95"
+  },
+  {
+    "id": "GF00408",
+    "description": "LENTE LANT.TS.MB 85>TODOS",
+    "quantity": "6.00",
+    "costPrice": "R$     16,21"
+  },
+  {
+    "id": "GF0042CR",
+    "description": "LENTE PISCA DT.MB L709/912 CR",
+    "quantity": "4.00",
+    "costPrice": "R$      6,13"
+  },
+  {
+    "id": "GF0041VM",
+    "description": "LENTE PISCA DT.MB QUAD.TD. VM",
+    "quantity": "4.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "GF0041AM",
+    "description": "LENTE PISCA DT.MB QUAD.TD.AM.",
+    "quantity": "4.00",
+    "costPrice": "R$      5,18"
+  },
+  {
+    "id": "G0031AM",
+    "description": "LENTE PISCA DT.TETO MB 83>AM.",
+    "quantity": "3.00",
+    "costPrice": "R$      3,55"
+  },
+  {
+    "id": "ETE7501",
+    "description": "LUVA P/TERM.3/16 TIPO MCH.TDS",
+    "quantity": "18.00",
+    "costPrice": "R$      0,50"
+  },
+  {
+    "id": "ETE7500A",
+    "description": "LUVA P/TERM.ENCAIX.FEM.C/TRAV",
+    "quantity": "38.00",
+    "costPrice": "R$      0,50"
+  },
+  {
+    "id": "ZEN2624",
+    "description": "MANCAL CBT/CASE/VALMET/VW.JF",
+    "quantity": "1.00",
+    "costPrice": "R$    253,87"
+  },
+  {
+    "id": "G161",
+    "description": "MANIV.LIMP.MB 3LIMP(ALTA)TDS.",
+    "quantity": "2.00",
+    "costPrice": "R$     33,91"
+  },
+  {
+    "id": "G160",
+    "description": "MANIV.LIMP.MB L 608/L708 TODO",
+    "quantity": "1.00",
+    "costPrice": "R$     32,15"
+  },
+  {
+    "id": "G271",
+    "description": "MANIV.LIMP.SCANIA 112/142 81>",
+    "quantity": "1.00",
+    "costPrice": "R$     31,50"
+  },
+  {
+    "id": "G267",
+    "description": "MANIV.LIMP.VOLVO N/NL10/12 TD",
+    "quantity": "1.00",
+    "costPrice": "R$     33,02"
+  },
+  {
+    "id": "GB24657",
+    "description": "MOLA DIR.ALAV.CH.SET.OPAL/D10",
+    "quantity": "12.00",
+    "costPrice": "R$      2,88"
+  },
+  {
+    "id": "GB21643",
+    "description": "PARAF.FIX.ALT.CAM.MB TDS.BCH.",
+    "quantity": "2.00",
+    "costPrice": "R$     34,64"
+  },
+  {
+    "id": "GB21283",
+    "description": "PARAF.FIX.AUT.PT.MB.JF BOSCH>",
+    "quantity": "8.00",
+    "costPrice": "R$      2,75"
+  },
+  {
+    "id": "GB21703",
+    "description": "PARAF.FIX.AUT.PT.TDS.JF BOSCH",
+    "quantity": "3.00",
+    "costPrice": "R$      2,45"
+  },
+  {
+    "id": "GB21284",
+    "description": "PARAF.FIX.AUT/FAROL MB JD/V.W",
+    "quantity": "9.00",
+    "costPrice": "R$      2,65"
+  },
+  {
+    "id": "GB20115",
+    "description": "PARAF.FIX.SAPATA GER/PT.VW TD",
+    "quantity": "7.00",
+    "costPrice": "R$      4,18"
+  },
+  {
+    "id": "GB2082130,7 8",
+    "description": "PARAF.FIX.SAPATA PT.MB JF BCH",
+    "quantity": "6.00",
+    "costPrice": "R$      5,13"
+  },
+  {
+    "id": "GB20336",
+    "description": "PARAF.FIX.SAPATA PT.PERK/FINA",
+    "quantity": "14.00",
+    "costPrice": "R$      4,23"
+  },
+  {
+    "id": "GB20067",
+    "description": "PARAF.FIX.SAPATA PT.PERK/GROS",
+    "quantity": "9.00",
+    "costPrice": "R$      4,55"
+  },
+  {
+    "id": "GB1834954",
+    "description": "PARAF.FIX.TAMPA ALT.CENT.>55A",
+    "quantity": "5.00",
+    "costPrice": "R$     10,80"
+  },
+  {
+    "id": "GB18349",
+    "description": "PARAF.FIX.TAMPA ALT.CENT.>55A",
+    "quantity": "5.00",
+    "costPrice": "R$     10,80"
+  },
+  {
+    "id": "GB18658",
+    "description": "PARAF.FIX.TAMPA ALT.MB35AMPER",
+    "quantity": "5.00",
+    "costPrice": "R$      6,40"
+  },
+  {
+    "id": "GB18276",
+    "description": "PARAF.FIX.TAMPA ALT.SCANIA TD",
+    "quantity": "6.00",
+    "costPrice": "R$     11,46"
+  },
+  {
+    "id": "GB19296LEA",
+    "description": "PARAF.FIX.TAMPA PT.MB TDS.JF.",
+    "quantity": "3.00",
+    "costPrice": "R$      5,78"
+  },
+  {
+    "id": "GB17269",
+    "description": "PARAF.GARFO PT.MB JF BOSCH",
+    "quantity": "8.00",
+    "costPrice": "R$     12,24"
+  },
+  {
+    "id": "G131C",
+    "description": "PIVO LIMP.MB 3 LIMP.(ALTA)CEN",
+    "quantity": "1.00",
+    "costPrice": "R$     91,15"
+  },
+  {
+    "id": "G130E",
+    "description": "PIVO LIMP.MB 3 LIMP.(ALTA)L/E",
+    "quantity": "1.00",
+    "costPrice": "R$     80,55"
+  },
+  {
+    "id": "G301D",
+    "description": "PIVO LIMP.MB.BICUDO TD.88> LD",
+    "quantity": "1.00",
+    "costPrice": "R$    180,09"
+  },
+  {
+    "id": "ICE731",
+    "description": "PLAT.FUSCA/KOMBI/TL/TC/VAR>74",
+    "quantity": "6.00",
+    "costPrice": "R$     17,49"
+  },
+  {
+    "id": "MTE4051",
+    "description": "PLUG EL.UNO/PALI/CORS/CEL/S10",
+    "quantity": "1.00",
+    "costPrice": "R$     38,69"
+  },
+  {
+    "id": "CP1113",
+    "description": "POL.ALT.F1000/22000 MWM 4/6C.",
+    "quantity": "1.00",
+    "costPrice": "R$     85,55"
+  },
+  {
+    "id": "CP1102",
+    "description": "POL.ALT.MB/MAXI/CBT/TOY.DUPLA",
+    "quantity": "1.00",
+    "costPrice": "R$    156,35"
+  },
+  {
+    "id": "ZM96000",
+    "description": "POL.ALT.RD-LIVRE A3/A4/A6/TT",
+    "quantity": "1.00",
+    "costPrice": "R$    156,37"
+  },
+  {
+    "id": "DP1164",
+    "description": "POL.ALT.S10/SPRINT/F1000 RIGI",
+    "quantity": "1.00",
+    "costPrice": "R$    103,06"
+  },
+  {
+    "id": "GB35122",
+    "description": "PORCA SEXT.POLIA ALT.MB/ALFA.",
+    "quantity": "12.00",
+    "costPrice": "R$      8,87"
+  },
+  {
+    "id": "GB21293",
+    "description": "PRISION.FIX.PT.MB/OUTROS MOD.",
+    "quantity": "5.00",
+    "costPrice": "R$     12,18"
+  },
+  {
+    "id": "DS1183",
+    "description": "REG.PRES.UNO/PALIO/CLIO/PICAS",
+    "quantity": "1.00",
+    "costPrice": "R$     65,80"
+  },
+  {
+    "id": "GA201",
+    "description": "REG.VOLT.CHEVET/MONZA/KADE. 1T",
+    "quantity": "2.00",
+    "costPrice": "R$     33,39"
+  },
+  {
+    "id": "GA058",
+    "description": "REG.VOLT.CORCELII/D.REY/F1000",
+    "quantity": "2.00",
+    "costPrice": "R$     44,41"
+  },
+  {
+    "id": "GA342",
+    "description": "REG.VOLT.FIAT PALIO/UNO >2010",
+    "quantity": "1.00",
+    "costPrice": "R$    161,11"
+  },
+  {
+    "id": "GA059",
+    "description": "REG.VOLT.FORD/VW/N.HOLLAND1 2V",
+    "quantity": "1.00",
+    "costPrice": "R$     52,99"
+  },
+  {
+    "id": "B01987BE30 02",
+    "description": "REG.VOLT.FUSCA/BRAS/KOMBI 12V",
+    "quantity": "1.00",
+    "costPrice": "R$    146,44"
+  },
+  {
+    "id": "GA980",
+    "description": "REG.VOLT.GOL G5/6/GOLF1.6/FOX",
+    "quantity": "1.00",
+    "costPrice": "R$    115,01"
+  },
+  {
+    "id": "GA040",
+    "description": "REG.VOLT.GOL MI97>/CORSA/S10>",
+    "quantity": "1.00",
+    "costPrice": "R$     67,73"
+  },
+  {
+    "id": "IK5541",
+    "description": "REG.VOLT.GOL MI97>/CORSA/S10>",
+    "quantity": "1.00",
+    "costPrice": "R$     98,05"
+  },
+  {
+    "id": "GB10665",
+    "description": "REG.VOLT.GOL MI97>/CORSA/S10>",
+    "quantity": "1.00",
+    "costPrice": "R$     24,49"
+  },
+  {
+    "id": "GA225",
+    "description": "REG.VOLT.GOL/PAR/SAV/GOLF/AU D",
+    "quantity": "1.00",
+    "costPrice": "R$     91,05"
+  },
+  {
+    "id": "GA225",
+    "description": "REG.VOLT.GOL/PAR/SAV/GOLF/AU D",
+    "quantity": "1.00",
+    "costPrice": "R$     91,05"
+  },
+  {
+    "id": "GA223",
+    "description": "REG.VOLT.GOLF 1.8>2.0 C/S/AR.",
+    "quantity": "1.00",
+    "costPrice": "R$     80,03"
+  },
+  {
+    "id": "GA787",
+    "description": "REG.VOLT.IVECO STRALIS 24 90A",
+    "quantity": "1.00",
+    "costPrice": "R$    152,85"
+  },
+  {
+    "id": "GA032",
+    "description": "REG.VOLT.KADET/MONZA/PREM/U NO",
+    "quantity": "2.00",
+    "costPrice": "R$     34,45"
+  },
+  {
+    "id": "GA304",
+    "description": "REG.VOLT.MB/SCAN/VOLVO24V/80 A",
+    "quantity": "3.00",
+    "costPrice": "R$     97,05"
+  },
+  {
+    "id": "GA011",
+    "description": "REG.VOLT.MB/VALMET/MF/FIAT EL",
+    "quantity": "1.00",
+    "costPrice": "R$     50,87"
+  },
+  {
+    "id": "IK5564",
+    "description": "REG.VOLT.MITSUB.L200/NISSA14V",
+    "quantity": "1.00",
+    "costPrice": "R$    181,25"
+  },
+  {
+    "id": "GA121",
+    "description": "REG.VOLT.PALIO/TEMPRA M.M.12V",
+    "quantity": "1.00",
+    "costPrice": "R$     73,67"
+  },
+  {
+    "id": "GA121",
+    "description": "REG.VOLT.PALIO/TEMPRA M.M.12V",
+    "quantity": "1.00",
+    "costPrice": "R$     73,67"
+  },
+  {
+    "id": "GA220",
+    "description": "REG.VOLT.PALIO/WEEKEND/SIENA.",
+    "quantity": "2.00",
+    "costPrice": "R$     92,75"
+  },
+  {
+    "id": "GA220",
+    "description": "REG.VOLT.PALIO/WEEKEND/SIENA.",
+    "quantity": "2.00",
+    "costPrice": "R$     92,75"
+  },
+  {
+    "id": "GA027",
+    "description": "REG.VOLT.PASSAT/GOL/FIAT/MON Z",
+    "quantity": "2.00",
+    "costPrice": "R$     31,69"
+  },
+  {
+    "id": "GA018",
+    "description": "REG.VOLT.SCANI/VOLV/VW",
+    "quantity": "1.00",
+    "costPrice": "R$     52,47"
+  },
+  {
+    "id": "GA021",
+    "description": "REG.VOLT.VERS/ROYAL/SANT/QUA N",
+    "quantity": "1.00",
+    "costPrice": "R$     66,07"
+  },
+  {
+    "id": "DNI0409",
+    "description": "RELE ACION.AUTOM.FAROL 5T.12V",
+    "quantity": "1.00",
+    "costPrice": "R$     25,97"
+  },
+  {
+    "id": "DNI0102",
+    "description": "RELE AUX.C/SUP.UNIV.40A.4T12V",
+    "quantity": "1.00",
+    "costPrice": "R$      7,41"
+  },
+  {
+    "id": "TRB135012",
+    "description": "RELE DUPLO FAROL 40A.500W.12V",
+    "quantity": "1.00",
+    "costPrice": "R$     42,29"
+  },
+  {
+    "id": "DNI0424",
+    "description": "RELE PISCA A.POTENC.4T540W24V",
+    "quantity": "2.00",
+    "costPrice": "R$     23,31"
+  },
+  {
+    "id": "DNI0840",
+    "description": "RELE PISCA MB.83/88 10TER.24V",
+    "quantity": "1.00",
+    "costPrice": "R$     53,23"
+  },
+  {
+    "id": "DNI0019",
+    "description": "RELE PISCA VW/GM/FORD/FIAT 3T",
+    "quantity": "8.00",
+    "costPrice": "R$     12,50"
+  },
+  {
+    "id": "DNI0019",
+    "description": "RELE PISCA VW/GM/FORD/FIAT 3T",
+    "quantity": "8.00",
+    "costPrice": "R$     12,50"
+  },
+  {
+    "id": "ST02019",
+    "description": "RELE TEMP.LIMP.MB CAM/ONIB12V",
+    "quantity": "1.00",
+    "costPrice": "R$     58,28"
+  },
+  {
+    "id": "GB10912",
+    "description": "REP.AUT.PT.NIPOD.PARF.M10/M10",
+    "quantity": "1.00",
+    "costPrice": "R$     48,23"
+  },
+  {
+    "id": "GB10716",
+    "description": "REP.AUT.PT.NIPOD.TOY.FURO 8MM",
+    "quantity": "1.00",
+    "costPrice": "R$     31,27"
+  },
+  {
+    "id": "GB10715",
+    "description": "REP.AUT.PT.NIPODENSO PARAF.M8",
+    "quantity": "4.00",
+    "costPrice": "R$     29,15"
+  },
+  {
+    "id": "GB11344",
+    "description": "REP.BORNE ALT.D+MB.MODERNO BO",
+    "quantity": "3.00",
+    "costPrice": "R$     23,31"
+  },
+  {
+    "id": "GB11345",
+    "description": "REP.BORNE B+ SAIDA ALT.CAM.MB",
+    "quantity": "2.00",
+    "costPrice": "R$     14,51"
+  },
+  {
+    "id": "GB10914",
+    "description": "REP.EMBOLO CH.MAG.PT.NIPODENS",
+    "quantity": "2.00",
+    "costPrice": "R$    248,99"
+  },
+  {
+    "id": "GB10038",
+    "description": "REP.FREIO INDUZ.MB JF 76>TDS",
+    "quantity": "3.00",
+    "costPrice": "R$     33,81"
+  },
+  {
+    "id": "GB10752",
+    "description": "REP.ISOL.SD.BOBIN.PT.37/42MT",
+    "quantity": "1.00",
+    "costPrice": "R$     17,07"
+  },
+  {
+    "id": "GB11342",
+    "description": "REP.PLACA CJ.RETIF.ALT.CAM.MB",
+    "quantity": "1.00",
+    "costPrice": "R$     41,87"
+  },
+  {
+    "id": "ZEN12693",
+    "description": "REP.PLANET.PT.\"\"DW\"\"VW/GM/FIAT.",
+    "quantity": "2.00",
+    "costPrice": "R$     17,16"
+  },
+  {
+    "id": "GB26459",
+    "description": "RET.ALT.L200/H100 C/BOMB.VACU",
+    "quantity": "4.00",
+    "costPrice": "R$     79,49"
+  },
+  {
+    "id": "GB26679",
+    "description": "RET.PT.KB MB/SCANIA/VOLVO BCH",
+    "quantity": "4.00",
+    "costPrice": "R$     23,45"
+  },
+  {
+    "id": "GB26005",
+    "description": "RET.PT.KB MB/TRATOR/SCAN.BCH.",
+    "quantity": "8.00",
+    "costPrice": "R$     17,48"
+  },
+  {
+    "id": "VTRNB101",
+    "description": "ROL.ALT.AGULHA GRD.WAPSA/DELC",
+    "quantity": "8.00",
+    "costPrice": "R$      8,09"
+  },
+  {
+    "id": "INA45853",
+    "description": "ROL.ALT.AGULHA GRD.WAPSA/DELC",
+    "quantity": "1.00",
+    "costPrice": "R$     15,40"
+  },
+  {
+    "id": "VTRNB104",
+    "description": "ROL.ALT.AGULHA MB/SCANIA JE >",
+    "quantity": "2.00",
+    "costPrice": "R$     10,62"
+  },
+  {
+    "id": "VTRNB109",
+    "description": "ROL.ALT.AGULHA TRASPO TNB27TD",
+    "quantity": "9.00",
+    "costPrice": "R$     15,23"
+  },
+  {
+    "id": "NSK6203",
+    "description": "ROL.ALT.BOSCH/WAPSA 6203ZZ...",
+    "quantity": "1.00",
+    "costPrice": "R$     17,37"
+  },
+  {
+    "id": "NSK6203",
+    "description": "ROL.ALT.BOSCH/WAPSA 6203ZZ...",
+    "quantity": "1.00",
+    "costPrice": "R$     17,37"
+  },
+  {
+    "id": "NSK6200DD U",
+    "description": "ROL.ALT.FORD L/C WAPSA 6200DD",
+    "quantity": "3.00",
+    "costPrice": "R$     16,43"
+  },
+  {
+    "id": "NSK6200DD U",
+    "description": "ROL.ALT.FORD L/C WAPSA 6200DD",
+    "quantity": "3.00",
+    "costPrice": "R$     16,43"
+  },
+  {
+    "id": "VTR6204DDU",
+    "description": "ROL.ALT.FORD L/P.WAPSA 6204DD",
+    "quantity": "2.00",
+    "costPrice": "R$     12,71"
+  },
+  {
+    "id": "VTR6003DDU",
+    "description": "ROL.ALT.M.MARELLI/BOSCH PALIO",
+    "quantity": "2.00",
+    "costPrice": "R$      9,85"
+  },
+  {
+    "id": "NSK6201",
+    "description": "ROL.ALT.MB BOSCH UNIV.6201ZZ.",
+    "quantity": "2.00",
+    "costPrice": "R$     11,81"
+  },
+  {
+    "id": "NSK6201",
+    "description": "ROL.ALT.MB BOSCH UNIV.6201ZZ.",
+    "quantity": "2.00",
+    "costPrice": "R$     11,81"
+  },
+  {
+    "id": "VTR17127DG",
+    "description": "ROL.ALT.MB/SCANIA BOSCH TODOS",
+    "quantity": "1.00",
+    "costPrice": "R$     55,65"
+  },
+  {
+    "id": "VTRNB108",
+    "description": "ROL.ALT.ROLETE 75AMPS 17/16X>",
+    "quantity": "1.00",
+    "costPrice": "R$     26,01"
+  },
+  {
+    "id": "VTR63001DD U",
+    "description": "ROL.ALT.TIPO/TEMPRA C/AR COND",
+    "quantity": "2.00",
+    "costPrice": "R$     13,48"
+  },
+  {
+    "id": "VTR6202",
+    "description": "ROL.GERAD.FUSCA/LINHA VW TDS.",
+    "quantity": "2.00",
+    "costPrice": "R$      8,37"
+  },
+  {
+    "id": "VTRNB110",
+    "description": "ROL.L/M.MT.PT.BOSCH J.E TODOS",
+    "quantity": "2.00",
+    "costPrice": "R$     15,23"
+  },
+  {
+    "id": "VTRNB103",
+    "description": "ROL.MT.PT.LD.MOTRIZF0069192",
+    "quantity": "1.00",
+    "costPrice": "R$      8,98"
+  },
+  {
+    "id": "VTRNB105",
+    "description": "ROL.MT.PT.MB/SCANIA/VOLVO KB.",
+    "quantity": "1.00",
+    "costPrice": "R$     32,15"
+  },
+  {
+    "id": "VTRNB106",
+    "description": "ROL.MT.PT.MB/SCANIA/VOLVO KB.",
+    "quantity": "1.00",
+    "costPrice": "R$     32,15"
+  },
+  {
+    "id": "ARE408",
+    "description": "ROTOR ALT.MB/TOYO/CASE/MF.35A",
+    "quantity": "1.00",
+    "costPrice": "R$    272,95"
+  },
+  {
+    "id": "B1234332216",
+    "description": "ROTOR DIST.MONZA/KADET/UNO1.6",
+    "quantity": "1.00",
+    "costPrice": "R$     39,95"
+  },
+  {
+    "id": "IG2022",
+    "description": "SENS.TEMP.ESC/GOL/CHT.90/92TD",
+    "quantity": "2.00",
+    "costPrice": "R$     62,05"
+  },
+  {
+    "id": "MTE3030",
+    "description": "SENS.TEMP.MB CAMIN.90>DUPLEX.",
+    "quantity": "1.00",
+    "costPrice": "R$    111,29"
+  },
+  {
+    "id": "DNI4001",
+    "description": "SIRENE M.RE C/SOM INTERM.12V.",
+    "quantity": "3.00",
+    "costPrice": "R$     22,79"
+  },
+  {
+    "id": "DNI4001",
+    "description": "SIRENE M.RE C/SOM INTERM.12V.",
+    "quantity": "3.00",
+    "costPrice": "R$     22,79"
+  },
+  {
+    "id": "DEP3032",
+    "description": "SQ.FAROL H1 MB BICUDO/VW2001>",
+    "quantity": "7.00",
+    "costPrice": "R$     11,65"
+  },
+  {
+    "id": "ETE7053",
+    "description": "SQ.PAINEL FUSCA ANTIGO LATAO.",
+    "quantity": "6.00",
+    "costPrice": "R$     12,95"
+  },
+  {
+    "id": "ETE7216",
+    "description": "SQ.ROSETA REFORC.MODERNO 1POL",
+    "quantity": "11.00",
+    "costPrice": "R$      8,83"
+  },
+  {
+    "id": "UFP122/24V",
+    "description": "SUP.ESC.PT.A3/PAL/LINEA/GOLF",
+    "quantity": "1.00",
+    "costPrice": "R$     27,45"
+  },
+  {
+    "id": "IK1652",
+    "description": "SUP.ESC.PT.ASTR/CORS/PALI/DOB",
+    "quantity": "2.00",
+    "costPrice": "R$     40,70"
+  },
+  {
+    "id": "UFP1144",
+    "description": "SUP.ESC.PT.ASTR/CORS/PALI/DOB",
+    "quantity": "2.00",
+    "costPrice": "R$     64,23"
+  },
+  {
+    "id": "SUA128/4",
+    "description": "SUP.ESC.PT.CLIO 1.0/6 SCENIC.",
+    "quantity": "2.00",
+    "costPrice": "R$     43,84"
+  },
+  {
+    "id": "UFP11834",
+    "description": "SUP.ESC.PT.COURRI/RANGE4ESC",
+    "quantity": "1.00",
+    "costPrice": "R$    104,31"
+  },
+  {
+    "id": "UFP1245/4",
+    "description": "SUP.ESC.PT.CUMMINS4.5/6.7 10>",
+    "quantity": "3.00",
+    "costPrice": "R$     69,37"
+  },
+  {
+    "id": "SUA134524V",
+    "description": "SUP.ESC.PT.DELCO 28MT 24V.4E.",
+    "quantity": "1.00",
+    "costPrice": "R$     55,69"
+  },
+  {
+    "id": "UFP127/24V",
+    "description": "SUP.ESC.PT.DUCATO/X3/X5/X6",
+    "quantity": "2.00",
+    "costPrice": "R$     49,37"
+  },
+  {
+    "id": "SUA26812V",
+    "description": "SUP.ESC.PT.DUCATO/X3/X5/X6",
+    "quantity": "1.00",
+    "costPrice": "R$     57,63"
+  },
+  {
+    "id": "SUA11812V",
+    "description": "SUP.ESC.PT.GM/VW/FIAT1.8/20MI",
+    "quantity": "2.00",
+    "costPrice": "R$     22,25"
+  },
+  {
+    "id": "SUA210",
+    "description": "SUP.ESC.PT.GOL/UNO/PALI/STRAD",
+    "quantity": "1.00",
+    "costPrice": "R$     28,54"
+  },
+  {
+    "id": "SUA009",
+    "description": "SUP.ESC.PT.GOL/VOY/UP 13>12V",
+    "quantity": "1.00",
+    "costPrice": "R$     40,59"
+  },
+  {
+    "id": "SUA203612V",
+    "description": "SUP.ESC.PT.GOLF1.6/FOX/N.POLO",
+    "quantity": "1.00",
+    "costPrice": "R$     30,65"
+  },
+  {
+    "id": "SUA20312V",
+    "description": "SUP.ESC.PT.GOLF1.6/FOX/N.POLO",
+    "quantity": "1.00",
+    "costPrice": "R$     30,65"
+  },
+  {
+    "id": "IK1056",
+    "description": "SUP.ESC.PT.HILUXSW4 DIESEL06>",
+    "quantity": "4.00",
+    "costPrice": "R$     30,73"
+  },
+  {
+    "id": "SUA15312V",
+    "description": "SUP.ESC.PT.HILUXSW4 DIESEL06>",
+    "quantity": "2.00",
+    "costPrice": "R$     57,23"
+  },
+  {
+    "id": "SUA16212V",
+    "description": "SUP.ESC.PT.IVECO/F250 MWM 4ES",
+    "quantity": "2.00",
+    "costPrice": "R$     53,81"
+  },
+  {
+    "id": "SUA16124V",
+    "description": "SUP.ESC.PT.JOHN 4E",
+    "quantity": "4.00",
+    "costPrice": "R$     60,69"
+  },
+  {
+    "id": "UFP11374",
+    "description": "SUP.ESC.PT.KA/FIEST/ESCORT 4E",
+    "quantity": "1.00",
+    "costPrice": "R$     77,91"
+  },
+  {
+    "id": "SUA186",
+    "description": "SUP.ESC.PT.MB SPRINTER311/313",
+    "quantity": "1.00",
+    "costPrice": "R$     42,93"
+  },
+  {
+    "id": "SUA10412V",
+    "description": "SUP.ESC.PT.MB.JF.4ESC.12V.>83",
+    "quantity": "2.00",
+    "costPrice": "R$     35,93"
+  },
+  {
+    "id": "SUA195",
+    "description": "SUP.ESC.PT.MB/VOLVO/CUMM. 24V",
+    "quantity": "2.00",
+    "costPrice": "R$     82,65"
+  },
+  {
+    "id": "UFP11794",
+    "description": "SUP.ESC.PT.MITSUB.M000T8438",
+    "quantity": "1.00",
+    "costPrice": "R$     54,05"
+  },
+  {
+    "id": "UFP1307",
+    "description": "SUP.ESC.PT.PALIO/IDEA 1.6 16V",
+    "quantity": "1.00",
+    "costPrice": "R$     35,51"
+  },
+  {
+    "id": "SUA102/12V",
+    "description": "SUP.ESC.PT.PERKINS 4ESC.LONG.",
+    "quantity": "2.00",
+    "costPrice": "R$     35,51"
+  },
+  {
+    "id": "SU13112V",
+    "description": "SUP.ESC.PT.S10/SPRINT.BCH.4E.",
+    "quantity": "3.00",
+    "costPrice": "R$     51,83"
+  },
+  {
+    "id": "SU13012V",
+    "description": "SUP.ESC.PT.S10/SPRINT.LUCAS4E",
+    "quantity": "1.00",
+    "costPrice": "R$     35,51"
+  },
+  {
+    "id": "SUA233/24V",
+    "description": "SUP.ESC.PT.SCANIA 340>480 24V",
+    "quantity": "1.00",
+    "costPrice": "R$     54,79"
+  },
+  {
+    "id": "SUA187/24V",
+    "description": "SUP.ESC.PT.VW CONSTELLAT/370.",
+    "quantity": "1.00",
+    "costPrice": "R$     77,91"
+  },
+  {
+    "id": "SU115112V",
+    "description": "SUP.ESC.PT.VW TDS.MI 97>4ESC.",
+    "quantity": "4.00",
+    "costPrice": "R$     22,25"
+  },
+  {
+    "id": "ST78112",
+    "description": "TERM.BAT.SAPAO REFOR.POS.",
+    "quantity": "12.00",
+    "costPrice": "R$      9,32"
+  },
+  {
+    "id": "ETE7008",
+    "description": "TERM.CENTRALIN.VW MICRO",
+    "quantity": "54.00",
+    "costPrice": "R$      1,80"
+  },
+  {
+    "id": "ETE7029A",
+    "description": "TERM.FEMEA C/TRAVA 9,7 MM",
+    "quantity": "79.00",
+    "costPrice": "R$      0,75"
+  },
+  {
+    "id": "ETE7022",
+    "description": "TERM.FIO C/FURO 3/16 FIO2.5MM",
+    "quantity": "95.00",
+    "costPrice": "R$      0,35"
+  },
+  {
+    "id": "ETE7009",
+    "description": "TERM.FIO C/FURO 3/16 GRD.UNIV",
+    "quantity": "49.00",
+    "costPrice": "R$      0,80"
+  },
+  {
+    "id": "ETE7032",
+    "description": "TERM.FIO C/FURO 3/8 FIO 10MM",
+    "quantity": "8.00",
+    "costPrice": "R$      0,80"
+  },
+  {
+    "id": "ETE3024L",
+    "description": "TERM.FIO C/FURO OLHAL UN.12M",
+    "quantity": "2.00",
+    "costPrice": "R$      3,00"
+  },
+  {
+    "id": "ETE7020A",
+    "description": "TERM.FIO ENCAIXE C/TRAV.1.5MM",
+    "quantity": "167.00",
+    "costPrice": "R$      0,25"
+  },
+  {
+    "id": "ETE7033",
+    "description": "TERM.FIO MACHO ESPAD.C/TRAVA",
+    "quantity": "69.00",
+    "costPrice": "R$      0,36"
+  },
+  {
+    "id": "ETE7030A",
+    "description": "TERM.FIO MOSQUITINHO C/T.0,75",
+    "quantity": "79.00",
+    "costPrice": "R$      0,25"
+  },
+  {
+    "id": "DNI8332",
+    "description": "TOMADA ENG.ALUMI.MACHO 7POL",
+    "quantity": "1.00",
+    "costPrice": "R$     45,05"
+  },
+  {
+    "id": "DNI8313",
+    "description": "TOMADA ENG.FEMEA SCAN/VOL 7PL",
+    "quantity": "2.00",
+    "costPrice": "R$     22,15"
+  },
+  {
+    "id": "DNI8312",
+    "description": "TOMADA ENG.MACHO SCAN/VOL",
+    "quantity": "1.00",
+    "costPrice": "R$     22,79"
+  },
+  {
+    "id": "DNI8370",
+    "description": "TOMADA ENG.PLAST.FEMEA 6P.PT",
+    "quantity": "1.00",
+    "costPrice": "R$     13,67"
+  },
+  {
+    "id": "DNI8380",
+    "description": "TOMADA ENG.PLAST.MACHO 6P.PT",
+    "quantity": "4.00",
+    "costPrice": "R$     13,45"
+  },
+  {
+    "id": "SF00M13624",
+    "description": "TP.ALT.L/P.CAM.MB/VW/FORD BOS",
+    "quantity": "1.00",
+    "costPrice": "R$    130,91"
+  },
+  {
+    "id": "C5112",
+    "description": "TP.ALT.L/P.MB OM-352/55/364/5",
+    "quantity": "1.00",
+    "costPrice": "R$    119,77"
+  },
+  {
+    "id": "CP5111",
+    "description": "TP.ALT.L/P.MB/MF/TOY/CBT/",
+    "quantity": "1.00",
+    "costPrice": "R$     99,52"
+  },
+  {
+    "id": "ZM50191",
+    "description": "TP.AUT.PT.ZM501/504/505 TODOS",
+    "quantity": "1.00",
+    "costPrice": "R$     47,20"
+  },
+  {
+    "id": "ZM8981500",
+    "description": "TP.PT.L/C.FORD CARGO M93R.",
+    "quantity": "2.00",
+    "costPrice": "R$     69,54"
+  },
+  {
+    "id": "CP5405",
+    "description": "TP.PT.L/C.MB/CBT/MF/VW/MWM/JF",
+    "quantity": "1.00",
+    "costPrice": "R$     50,87"
+  },
+  {
+    "id": "ZM8984501",
+    "description": "TP.PT.L/C.VW/FORD/AGRAL.M9",
+    "quantity": "2.00",
+    "costPrice": "R$     69,19"
+  },
+  {
+    "id": "GB35253",
+    "description": "TRAVA PORCA FIX.BEND.PT.MB/KB",
+    "quantity": "5.00",
+    "costPrice": "R$      2,69"
+  },
+  {
+    "id": "GA1002",
+    "description": "TRIODO ALT.BOSCH TDS.12/24VTS",
+    "quantity": "3.00",
+    "costPrice": "R$     19,07"
+  },
+  {
+    "id": "CP5950",
+    "description": "VENT.ALT.FIAT/SCAN/MB/MF/VOLV",
+    "quantity": "1.00",
+    "costPrice": "R$     53,53"
+  }
+]
