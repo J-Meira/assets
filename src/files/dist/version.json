@@ -1,0 +1,10 @@
+{
+    "addon":  {
+                  "version":  "0.4.0",
+                  "url":  "WowChest-addon-0.4.0.zip"
+              },
+    "companion":  {
+                      "version":  "0.4.0",
+                      "url":  "WowChest-companion-0.4.0.zip"
+                  }
+}
