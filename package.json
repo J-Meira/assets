@@ -4,8 +4,8 @@
   "description": "Auto generate content.json for public assets",
   "main": "src/index.ts",
   "scripts": {
-    "build": "tsc src/index.ts",
-    "make": "node src/index.js"
+    "build": "tsc",
+    "make": "node dist/index.js"
   },
   "keywords": [
     "assets",

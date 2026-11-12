@@ -25,3 +25,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.folder h4 {
+  margin: 20px 0 5px;
+  color: #555;
+}
+
+.folder ul {
+  padding-left: 15px;
+}
