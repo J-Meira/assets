@@ -7,7 +7,7 @@ This project dynamically generates a `content.json` file containing the list of 
 - **Dynamic Folder Scanning**: Recursively lists all files in `src/files`; paths are relative to that folder and hidden/OS metadata files are skipped.
 - **Version Management**: Reads the version from the `TAG_NAME` environment variable (set from the GitHub tag in CI, or from a local `.env`).
 - **TypeScript Support**: Ensures type safety and reliability.
-- **GitHub Actions Integration**: Builds, generates `content.json` and syncs `src/files` and `src/public` to S3 on every `v*.*.*` tag.
+- **GitHub Actions Integration**: Builds, generates `content.json` and publishes `src/files` and `src/public` (merged into one site root) to GitHub Pages on every `v*.*.*` tag, or on demand via the workflow's manual run.
 
 ## Usage
 
